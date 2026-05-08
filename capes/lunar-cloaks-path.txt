@@ -1,1 +1,3 @@
-remember: C:\Users\USER\.lunarclient\jit\assets\lunar-jit\cosmetics\cloaks
+remember: 
+C:\Users\USER\.lunarclient\jit\assets\lunar-jit\cosmetics\cloaks
+https://textures.lunarclientcdn.com/file/(jit_index)
